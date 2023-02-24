@@ -1,0 +1,51 @@
+
+       h2{ margin: 30px; background-color: aqua;
+      
+          padding: 10px;  
+
+          border: solid purple 1px;
+
+          width: 78%;
+       
+         }    
+    
+       h1{ margin: 30px; background-color: aqua ;
+      
+        width: 80%;
+
+        padding: 3px; 
+
+        border: solid purple 1px;
+
+        width: 80%;
+        
+        
+        
+        } 
+
+       h3{ margin: 10px; background-color: aquamarine;
+          color:#522d80;       padding: 6px; 
+
+          width: 80%;
+        
+          border: solid purple 3px;        
+        }
+
+    
+       p{margin: 30px;  
+ 
+         width: 80%;
+        
+        }
+
+       img{ margin-left: 180px ;}
+
+       #texto{
+        background-color: aquamarine;
+       }
+       
+       html{background-color: aquamarine; 
+ 
+        width: 90%;
+      
+          }
